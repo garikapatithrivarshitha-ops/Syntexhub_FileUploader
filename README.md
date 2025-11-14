@@ -1,0 +1,1 @@
+A lightweight and efficient file uploader built with Node.js, Express, and Multer. This application allows users to upload single or multiple files through a simple UI, storing all uploaded files securely in the server’s uploads folder. Designed for easy setup and clean code, it serves as a great starter project for learning backend development and file-handling in Node.js.
